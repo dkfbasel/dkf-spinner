@@ -1,0 +1,32 @@
+{
+  "name": "dkf-spinner",
+  "version": "1.0.1",
+  "description": "Advanced loading indicator component for vue 2+",
+  "main": "/src/dkf-spinner.vue",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dkfbasel/dkf-spinner"
+  },
+  "keywords": [
+    "vue",
+    "loading",
+    "spinner"
+  ],
+  "author": "Department of Clinical Research, University Hospital Basel",
+  "contributors": [
+      {
+        "name": "Ramon Saccilotto",
+        "email": "tikiatua@gmail.com",
+        "url": "https://github.com/tikiatua"
+      },
+      {
+        "name": "Vu Duong",
+        "email": "info@spotlit.de",
+        "url": "https://github.com/vuduo"
+      }
+    ],
+  "license": "MIT"
+}
